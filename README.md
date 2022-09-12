@@ -1,4 +1,5 @@
 # HEART
 「🖤𝐇𝐄𝐀𝐑𝐓 🖤」
 
-https://heart-13.jimdosite.com/   
+
+EL BOT ESTA OFFLINE POR UN TIEMPO / REGRESARA PRONTO :3

@@ -10,6 +10,6 @@
 
 
 ## Contact
-Discord: `春木#5575`
+Developer: `春木#5575`
 
 Si tiene algún problema, no dude en ponerse en contacto conmigo. 😉

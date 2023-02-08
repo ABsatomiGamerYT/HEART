@@ -4,7 +4,7 @@
 
 [![Heart](https://cdn.Heart.bot/tutorial/docs-top.png)](https://nadeko.bot/)  
   
-[![Heart1](https://cdn.Heart.bot/tutorial/docs-mid.png)](https://invite.nadeko.bot/)  
+[![Heart1](https://media.giphy.com/media/EcAYL5KWnbXyyIAP1B/giphy.gif)](https://discord.gg/Ef2a6s5BKc)](https://invite.nadeko.bot/)  
  
 [![Heart2](https://cdn.Heart.bot/tutorial/docs-bot.png)](https://nadeko.bot/commands)
 

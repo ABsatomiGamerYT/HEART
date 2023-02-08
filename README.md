@@ -1,14 +1,16 @@
 \ ゜ o ゜)ノ 
 =====================
 # HEART
-[![Discord](https://media.giphy.com/media/EcAYL5KWnbXyyIAP1B/giphy.gif)](https://discord.gg/Ef2a6s5BKc)
 
-UN BOT MILTIFUNCIONAL: 
-NOSOTROS QUEREMOS QUE SEA BUENOS,
-SI LLEGACEN A UTILIZAR LOS CODIGOS,
-SERA DENUNCIADO U.U
+[![Heart](https://cdn.Heart.bot/tutorial/docs-top.png)](https://nadeko.bot/)  
+  
+[![Heart1](https://cdn.Heart.bot/tutorial/docs-mid.png)](https://invite.nadeko.bot/)  
+ 
+[![Heart2](https://cdn.Heart.bot/tutorial/docs-bot.png)](https://nadeko.bot/commands)
 
-NO QUIERO LLEGAR A ESO PORFAVOR NO LO HAGAS
+### Useful links
+- [Discord support server](https://discord.gg/Ef2a6s5BKc)
+
 
 ## Contact
 Discord: `春木#5575`

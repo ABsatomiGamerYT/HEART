@@ -2,11 +2,11 @@
 =====================
 # 𝐇𝐄𝐀𝐑𝐓
   
-[![Heart1](https://media.giphy.com/media/EcAYL5KWnbXyyIAP1B/giphy.gif)](https://discord.gg/z6C2wFH7Ga)]
+[![Heart1](https://media.giphy.com/media/EcAYL5KWnbXyyIAP1B/giphy.gif)](https://discord.gg/K3jhPqDHr2)]
 
 
 ### Useful links
-- [Discord support server](https://discord.gg/z6C2wFH7Ga)
+- [Discord support server](https://discord.gg/K3jhPqDHr2)
 
 
 ## Contact
